@@ -1,8 +1,8 @@
 {
-  "name": "famp",
+  "name": "famp-complete",
   "plugin_schema": "2",
   "release": "12.1-RELEASE",
-  "artifact": "https://github.com/fulder/iocage-plugin-famp.git",
+  "artifact": "https://github.com/geraldurbas/iocage-plugin-famp-complete.git",
   "pkgs": [
     "apache24",
     "mysql80-server",
@@ -10,6 +10,19 @@
     "php74-mysqli",
     "mod_php74",
     "php74-curl"
+        "php74-ctype",
+        "php74-filter",
+        "php74-hash",
+        "php74-json",
+        "php74-mbstring",
+        "php74-openssl",
+        "php74-pdo_sqlite",
+        "php74-pdo_mysql",
+        "php74-session",
+        "php74-sqlite3",
+        "php74-tokenizer",
+        "php74-xml",
+        "php74-zip"
   ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
   "fingerprints": {
