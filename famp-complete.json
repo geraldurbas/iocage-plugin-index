@@ -9,7 +9,7 @@
     "php74",
     "php74-mysqli",
     "mod_php74",
-    "php74-curl"
+    "php74-curl",
         "php74-ctype",
         "php74-filter",
         "php74-hash",
