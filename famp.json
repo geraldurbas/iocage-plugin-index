@@ -8,7 +8,8 @@
     "mysql80-server",
     "php74",
     "php74-mysqli",
-    "mod_php74"
+    "mod_php74",
+    "php74-curl"
   ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
   "fingerprints": {
