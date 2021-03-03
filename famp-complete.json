@@ -12,7 +12,6 @@
     "php74-curl",
         "php74-ctype",
         "php74-filter",
-        "php74-hash",
         "php74-json",
         "php74-mbstring",
         "php74-openssl",
